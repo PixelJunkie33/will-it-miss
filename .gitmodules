@@ -1,0 +1,3 @@
+[submodule "mdn-will-it-miss"]
+	path = mdn-will-it-miss
+	url = https://github.com/remy/mdn-will-it-miss.git
